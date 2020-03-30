@@ -20,7 +20,7 @@ Mouse only game, Press on a pictogram and then release on the other cell with th
 Click on the same pictogram to delete current path and make a new one.
 
 ### Goal
-![Image Du Jeu](https://github.com/Clemyxy/BuildingEscape/blob/master/ProjetLifpooScreen.png)
+![Image Du Jeu](https://github.com/Clemyxy/DrawLines/blob/master/ProjetLifpooScreen.png)
 
 Once in game, your goal is to fill entirely the grid by linking the cells with the same pictogram.
 

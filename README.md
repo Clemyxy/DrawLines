@@ -35,3 +35,7 @@ If the level is too difficult, you can leave the level by pressing the button on
 * JavaFX
 * How to build and navigate a jar file
 * Respect MVC Design Pattern.
+
+
+#### Project made in collaboration with Collinette Bastien during our 3rd year in Lyon1's Licence.
+Find his github here: https://github.com/COLLINETTEBastien
